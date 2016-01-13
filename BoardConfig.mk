@@ -25,6 +25,9 @@ TARGET_SPECIFIC_HEADER_PATH += device/sony/z3/include
 
 BOARD_HARDWARE_CLASS += device/sony/z3/cmhw
 
+# Block builds
+BLOCK_BASED_OTA=false
+
 # Kernel properties
 TARGET_KERNEL_CONFIG := cm_shinano_leo_defconfig
 
