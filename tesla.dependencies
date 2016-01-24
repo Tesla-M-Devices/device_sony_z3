@@ -1,9 +1,9 @@
 [
   {
     "remote":       "github",
-    "repository":   "CyanogenMod/android_device_sony_shinano-common",
+    "repository":   "Tesla-M-Devices/device_sony_shinano-common",
     "target_path":  "device/sony/shinano-common",
-    "branch":     "cm-13.0"
+    "branch":     "6.0"
   },
   {
     "remote":       "github",
